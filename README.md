@@ -835,6 +835,7 @@ PaymentFlow/
 | Document | Description |
 |----------|-------------|
 | [`docs/architecture.md`](docs/architecture.md) | System design and data flow |
+| [`docs/architecture/stellar-integration.md`](docs/architecture/stellar-integration.md) | Stellar/Soroban integration architecture with sequence diagrams |
 | [`docs/api-spec.md`](docs/api-spec.md) | Full API reference |
 | [`docs/stellar-integration.md`](docs/stellar-integration.md) | Stellar-specific details |
 | [`docs/payment-limits.md`](docs/payment-limits.md) | Payment limits configuration |
