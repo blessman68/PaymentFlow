@@ -836,6 +836,7 @@ PaymentFlow/
 |----------|-------------|
 | [`docs/architecture.md`](docs/architecture.md) | System design and data flow |
 | [`docs/api-spec.md`](docs/api-spec.md) | Full API reference |
+| [`docs/openapi.yaml`](docs/openapi.yaml) | OpenAPI 3.0 specification (machine-readable, used by Swagger UI at `/api/docs`) |
 | [`docs/stellar-integration.md`](docs/stellar-integration.md) | Stellar-specific details |
 | [`docs/payment-limits.md`](docs/payment-limits.md) | Payment limits configuration |
 | [`docs/security.md`](docs/security.md) | Security model and threat analysis |
